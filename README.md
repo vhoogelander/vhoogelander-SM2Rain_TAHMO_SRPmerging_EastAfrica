@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/881906136.svg)](https://doi.org/10.5281/zenodo.14035124)
+
 # SM2Rain_TAHMO_SRPmerging_EastAfrica
 This repository contains the methods for improving rainfall estimates in East-Africa by merging satellite-based precipitation products with TAHMO data. 
 The methods are based on the statistical uncertainty analysis framework [(SUPER)](https://www.sciencedirect.com/science/article/abs/pii/S0034425722004059) and the [SM2Rain algorithm](https://github.com/IRPIhydrology/sm2rain).

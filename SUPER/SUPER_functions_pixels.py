@@ -1,3 +1,4 @@
+### The methods used in this script are developed by Dong et al. (2022) (https://www.sciencedirect.com/science/article/pii/S0034425722004059) #######
 import xarray as xr
 import numpy as np
 import matplotlib.pyplot as pl
